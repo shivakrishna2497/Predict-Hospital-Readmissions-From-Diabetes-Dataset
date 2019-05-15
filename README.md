@@ -1,4 +1,4 @@
-# Predict-Hospital-Readmissions-From-Diabetes-Dataset
+# Predicting-Hospital-Readmissions-From-Diabetes-Dataset
 In this project I will demonstrate how to build a model predicting readmission in Python using the following steps 
 
 
